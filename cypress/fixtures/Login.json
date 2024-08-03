@@ -1,15 +1,15 @@
 {
-    "login":{
-        "username": "standard_user",
-        "password": "secret_sauce",
-        "url": "https://www.saucedemo.com/v1/",
-        "invalid": "dado_invalido",
-        "product": "Products",
-        "errorText": "Username and password do not match any user in this service"
+    "login": {
+      "username": "standard_user",
+      "password": "secret_sauce",
+      "url": "https://www.saucedemo.com/v1/",
+      "invalid": "dado_invalido",
+      "product": "Products",
+      "errorText": "Username and password do not match any user in this service"
     },
-    "cart":{
-        "firstName": "Mévio",
-        "lastName": "Santos",
-        "postalCode": "37460-000"
+    "cart": {
+      "firstName": "Mévio",
+      "lastName": "Santos",
+      "postalCode": "37460-000"
     }
-}
+  }

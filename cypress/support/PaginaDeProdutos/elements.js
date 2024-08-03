@@ -1,7 +1,5 @@
 export const ELEMENTS = {
     paginaDeProdutos: {
-        visualizarProdutos: '.inventory_list .inventory_item'
-
-    }
-
-}
+      visualizarProdutos: ".inventory_list .inventory_item",
+    },
+  };
