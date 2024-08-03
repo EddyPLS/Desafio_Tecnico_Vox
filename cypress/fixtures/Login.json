@@ -6,6 +6,10 @@
         "invalid": "dado_invalido",
         "product": "Products",
         "errorText": "Username and password do not match any user in this service"
+    },
+    "cart":{
+        "firstName": "Mévio",
+        "lastName": "Santos",
+        "postalCode": "37460-000"
     }
-   
 }
